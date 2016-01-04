@@ -1,6 +1,6 @@
 ################ Fibonacci Roulette Betting System ##############
 
-#Purpose: Create a simulation of 1 million rolls on the roulette using 
+#Purpose: Create a simulation of x number of rolls on the roulette using 
 #the Fibonacci system while tracking the money meanwhile
 
 
